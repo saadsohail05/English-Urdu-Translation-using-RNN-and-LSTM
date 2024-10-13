@@ -4,7 +4,8 @@
 In today's interconnected world, language translation plays a crucial role in breaking communication barriers. This project aims to develop a **machine translation model** that accurately translates **English** sentences into **Urdu** using **Recurrent Neural Networks (RNN)** and **Long Short-Term Memory (LSTM)** networks. By focusing on the nuances of both languages, we aim to provide a robust solution for low-resource language translation.
 
 ---
-![Model Architecture](0_8cAuFh6z3drWqa_a.webp)
+<img src="0_8cAuFh6z3drWqa_a.webp" alt="Model Architecture" style="display: block; margin: 0 auto;">
+
 
 ## 💻 Installation
 
